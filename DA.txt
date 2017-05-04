@@ -1,0 +1,13 @@
+Đề tài: Thiết kế một mã nguồn mở image with bằng ngôn ngữ php
+Nhóm em thiết kế một mã nguồn mở mage-widget,một mã nguồn chuyên sử dụng hình ảnh trong các trang web.
+Image Widget là một tiện ích trong các trang web (bán hàng , tin tức) hay bất kì loại website cũng cần dùng đến nó.Đó là nơi tập trung của các chức năng cho một website như thêm sửa xóa.
+Các tính năng của Image Widget.
++ Xử lí, thay đổi kích thước hình ảnh tùy thích.
++ Gắn link vào hình ảnh.
++ Tạo được tiêu đề à phần mô tả của ảnh.
++ Hỗ trợ ghi đè lên các mẫu hình ảnh của bạn.
+
+
+
+
+
