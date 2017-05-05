@@ -9,7 +9,7 @@
 <p>-Phân tích và đánh giá các yêu cầu của website bán hàng cơ bản:</p>
 <p>• Vận dụng ngôn ngữ HTML, PHP và công cụ sublime text  vào việc xây dựng website bán hàng.</p>
 <p>• Phần giao diện người dùng: giao diện thân thiện, cho phép bạn đọc dễ dàng xem tin, tìm kiếm tin, đăng bài, ý kiến cho mỗi sản phẩm cùng với những trò chơi mà website cung cấp.</p>
- </p>• Phần quản tri: Đã xây dựng được hệ thống quản lý dữ liệu của website, giúp cho những người quản trịdễ dàng quản lý thông tin, dữliệu, xem, thêm, xóa , cập nhật dữliệu cho website.</p>
+ </p>• Phần quản tri: Đã xây dựng được hệ thống quản lý dữ liệu của website, giúp cho những người quản trị dễ dàng quản lý thông tin, dữliệu, xem, thêm, xóa , cập nhật dữ liệu cho website.</p>
 
 
 
