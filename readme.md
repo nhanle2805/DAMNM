@@ -1,4 +1,7 @@
+#DAMNM
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 <p><h1>Đề tài: website bán hàng bằng ngôn ngữ php</h1></p>
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 <p>Ngành công nghệ thông tin là một ngành khoa học đang trên đà phát triển mạnh và ứng dụng rộng rãi trên nhiều lĩnh vực. Cùng với xu hướng phát triển của các phương tiện truyền thông như Báo, Radio… thì việc sử dụng Internet ngày càng phổ biến. Truy cập Internet, chúng ta có được một kho thông tin khổng lồ phục vụ mọi nhu cầu, mục đích của chúng ta chỉ bằng một cái nhấp chuột.</p> 
 <p>Nhận thức được nhu cầu tìm hiểu thông tin, giải trí của xã hội, là sự ra đời của hàng loạt website cho các mục đích thương mại, giải trí, tin tức…Để đáp ứng với việc cập nhật thông tin hàng hóa theo ngày … thì website bán hàng ra đời là một nhu cầu tất yếu.</p>
 <p>Do đó, chúng em đã vận dụng ngôn ngữ PHP và công cụ sublime text để xây dựng ứng dụng Website bán hàng . </p>
