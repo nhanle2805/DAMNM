@@ -1,0 +1,5 @@
+trang web bán hàng dựa trên nền tảng mã nguồn mở wordpress và giao diện có sẵn để phát triển một trang web bán hàng 
+sử dụng một số chức năng để phát triển thành một trang web như: 
+- tạo một file trangchu.php rồi gọi các câu lệnh php từ những file đã hỗ trợ sẵn gọi file hearder.php ,  file sidebar , footer.php 
+- nếu muốn phát triển thêm một chức năng nào đó . ta vào file fucntion.php để phêm chức năng và dùng câu lệnh php để gọi nó 
+- cài đặt thêm một số plugin và dùng câu lệnh gọi giỏ hàng , thanh toán .
