@@ -37,7 +37,7 @@
 			    <div class="row container-fluid">
 					<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
 						<div class="topbar-left">
-							 	<h3 class="phone"><i class="fa fa-phone" aria-hidden="true"></i>0981607782</h3>
+						   <h3 class="phone"><i class="fa fa-phone" aria-hidden="true"></i>0981607782</h3>
 						</div>
 					</div>
 					<div class="col-xs-8 col-sm-8 col-md-8 col-lg-8">
@@ -56,7 +56,7 @@
 			        <div class="row container-fluid">
 		     	   <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
 		     	   	   <div class="logo"> 
-		     	   	   		<img src="<?php bloginfo('stylesheet_directory'); ?>/img/logo.png" alt="Logo">
+		     	   	       <img src="<?php bloginfo('stylesheet_directory'); ?>/img/logo.png" alt="Logo">
 		     	   	   </div> 
 		     	   </div>
 		     	   <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
